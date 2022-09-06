@@ -1,2 +1,3 @@
 #!/bin/bash
 egrep ^[[:alpha:]] /etc/ssh/sshd_config 19
+egrep ^[[:alpha:]] /etc/ssh/sshd_config19
